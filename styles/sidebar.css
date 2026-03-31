@@ -57,8 +57,3 @@
     height:30px;
   }
 }
-@media (max-width:750px){
-  .sidebar{
-    display:none;
-  }
-}
