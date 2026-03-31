@@ -173,3 +173,13 @@
 .notification-container{
   cursor: pointer;
 }
+@media (max-width:750px){
+  .middle-section{
+    margin-left:10px;
+    margin-right:10px;
+  }
+
+  .right-section{
+    width:auto;
+  }
+}
